@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/benjamin/Desktop/projet/Shoki/AwesomeProject/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
